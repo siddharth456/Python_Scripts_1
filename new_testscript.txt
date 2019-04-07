@@ -1,0 +1,3 @@
+# test lstrip() method
+hello world This is a test string
+this is it

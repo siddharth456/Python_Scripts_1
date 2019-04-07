@@ -1,0 +1,2 @@
+use world;
+update city set Name='Bengaluru' where ID=1030;

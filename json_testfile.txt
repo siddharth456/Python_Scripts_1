@@ -1,0 +1,19 @@
+{
+    "people": [
+        {
+            "Name": "John Doe",
+            "Age": 27,
+            "Website": "www.john-d.com"
+        },
+        {
+            "Name": "Brian Mosers",
+            "Age": 34,
+            "Website": "www.automatewithbrian.org"
+        },
+        {
+            "Name": "Dr.Dre",
+            "Age": 45,
+            "Website": "www.kingdre.au"
+        }
+    ]
+}
